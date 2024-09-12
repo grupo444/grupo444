@@ -19,8 +19,8 @@
 
 ## ⚙️Análise do GitHub
 <div align="center">
-        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=makeneto&show_icons=true&count_private=true&hide_border=true&title_color=949494&text_color=ffffff&bg_color=000000" alt="Makene Neto github Status"/>
-        <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makeneto&layout=compact&hide_border=true&title_color=949494&text_color=949494&bg&bg_color=000000"/>
+        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=grupo444&show_icons=true&count_private=true&hide_border=true&title_color=949494&text_color=ffffff&bg_color=000000" alt="Grupo 4 github Status"/>
+        <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grupo444&layout=compact&hide_border=true&title_color=949494&text_color=949494&bg&bg_color=000000"/>
 </div>
 
 ## 📊Graph
