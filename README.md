@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=%22Arial%22%2C+sans-serif;&weight=500&size=30&duration=3000&pause=1000&color=ffffff&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Olá,👋🏿+bem-vindo+ao+GRUPO+4😊❤️‍🔥)](https://git.io/typing-svg)
-<ul>
+<ul style="font-size: 18px">
     <li>🧑🏿‍💻Atualmente, somos finalistas do curso técnico de Informática no <b>Colégio Nossa Senhora da Anunciação</b></li>
     <li>💓Somos Viciados em Programação desde <b>2021</b></li>
     <li>Siga-nos mais conteúdos de Programação e desenvolvimento de sistemas🤝🏾</li>
